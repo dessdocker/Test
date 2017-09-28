@@ -17,7 +17,7 @@ SimpleDateFormat sdf = new SimpleDateFormat("dd:MMM:yyyy hh:mm:ss");
 <%out.println("{\"Current time\":\""+sdf.format(new Date())+"\"}");%><br/>
 <!-- http://cdn.rancher.com/wp-content/uploads/2015/11/18175501/ci_flow.png -->
 <!-- https://image.slidesharecdn.com/docker-swarm-mike-goelzer-mv-meetup-45min-workshop022420161-160228024416/95/docker-swarm-docker-native-clustering-5-638.jpg?cb=1456856097 -->
-<img alt="image1" src="http://cdn.rancher.com/wp-content/uploads/2015/11/18175501/ci_flow.png">
+<img alt="image1" src="https://image.slidesharecdn.com/docker-swarm-mike-goelzer-mv-meetup-45min-workshop022420161-160228024416/95/docker-swarm-docker-native-clustering-5-638.jpg?cb=1456856097">
 </center>
 </body>
 </html>
