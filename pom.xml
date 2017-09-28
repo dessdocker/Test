@@ -7,6 +7,7 @@
   
   <build>
     <sourceDirectory>src</sourceDirectory>
+    
     <finalName>Test</finalName>
     <plugins>
       <plugin>
@@ -14,6 +15,7 @@
         <version>3.0.0</version>
         <configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
+          <outputDirectory>${user.home}/Downloads</outputDirectory>
         </configuration>
         
       </plugin>
